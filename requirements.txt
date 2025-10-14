@@ -2,3 +2,6 @@ pandas
 scikit-learn
 matplotlib
 numpy
+pandasai
+openai
+matplotlib
